@@ -5,7 +5,7 @@ profile to the ZIP file format.
 
 # Contents
 
-- [nz-building-outlines.gpkg.zip](http://even.rouault.free.fr/sozip/nz-building-outlines.gpkg.zip)
+- [nz-building-outlines.gpkg.zip](https://download.osgeo.org/gdal/data/sozip/nz-building-outlines.gpkg.zip)
   (stored in external server for size reasons):
   494 MB SOZip file containing a 1.6 GB large [GeoPackage](https://geopackage.org)
   file with 3.2 million polygons and 13 attributes per feature.
